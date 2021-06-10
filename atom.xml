@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>r4bbit</title>
+ <link href="https://r4bbithole.github.io//atom.xml" rel="self"/>
+ <link href="https://r4bbithole.github.io//"/>
+ <updated>2021-06-10T19:33:02+00:00</updated>
+ <id>https://r4bbithole.github.io/</id>
+ <author>
+   <name>r4bbit</name>
+   <email>r4bbit.ctf@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Pilot</title>
+   <link href="https://r4bbithole.github.io//2021/06/06/pilot"/>
+   <updated>2021-06-06T00:00:00+00:00</updated>
+   <id>https://r4bbithole.github.io//2021/06/06/pilot</id>
+   <content type="html">&lt;p&gt;So yeah. It’s finally happening. I’m writing my first blog post.&lt;/p&gt;
+
+&lt;p&gt;You might not know who I am and there’s no &lt;em&gt;about&lt;/em&gt; me page either. (Or is there? Lurk a bit more …) Anyways, you will not know anything about me mainly because I haven’t really done anything at all so far. At least not in security.&lt;/p&gt;
+
+&lt;p&gt;I’m a 23 years old aspiring hacker from Hungary and this first blog spot is hopefully the start of my cybersecurity career. Or at least the first step towards a larger online presence in the community.&lt;/p&gt;
+
+&lt;p&gt;I’ve been fighting a bit of depression for the better part of the last six years so I hope by creating a blog, writing about my studies and shenanigans and doing a semi regular live stream on twitch I can combat this sinkhole. Sharing my thoughts, personal experiences and professional progress should help with stress, right?&lt;/p&gt;
+
+&lt;h1 id=&quot;why-am-i-writing-this&quot;&gt;Why am I writing this?&lt;/h1&gt;
+
+&lt;p&gt;My goals with this blog post is partially to introduce myself:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’m into reversing, pwn and web hacking and I thoroughly enjoy playing CTFs and doing boxes on HackTheBox. I finished my bachelors in Computer Engineering at my local university but I started studying about programming and computer networks on my own way before I was even accepted into uni. I worked on several school projects at uni and got into security on my own.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The other reason I created this post is to share links and experiences about studying security. So here they are:&lt;/p&gt;
+
+&lt;h1 id=&quot;linux&quot;&gt;Linux&lt;/h1&gt;
+
+&lt;p&gt;Get into Linux. Download Ubuntu, wipe your windows machine and start using &lt;a href=&quot;https://ubuntu.com/&quot;&gt;Ubuntu&lt;/a&gt;. Or &lt;a href=&quot;https://manjaro.org/&quot;&gt;manjaro&lt;/a&gt;, you’ll thank me down the line (more tools are readily available on manjaro without having to build them). Yes, Linux has a certain … steeper learning curve but trust me, people will be amazed by how much you know about a system that makes you face soooo many problems. Every bump on the road is an opportunity for you to grow.&lt;/p&gt;
+
+&lt;h1 id=&quot;programming&quot;&gt;Programming&lt;/h1&gt;
+
+&lt;p&gt;You’ll have to learn a bit about computers, there’s just no ways around this. One of the skills you have to acquire is programming. I suggest starting with python. I started with &lt;a href=&quot;https://www.python.org/about/gettingstarted/&quot;&gt;python&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now there’s a bit of a confusion around which language to start with. I learned python just because … By learning python you’ll learn the logic behind programming, without having to understand difficult syntactical nuances. This will allow you to get into C/C++ and other, lower level languages easier.&lt;/p&gt;
+
+&lt;p&gt;I suggest you use &lt;a href=&quot;https://www.codecademy.com/&quot;&gt;codecademy&lt;/a&gt; to learn python. It was free when I used it but in case it’s not anymore you can mail me on my email address and I’ll look for an other programming site. Last time I used it I was able to make it until python classes, but you won’t have to go that far just now. (You sure can, but you might find it difficult to understand).&lt;/p&gt;
+
+&lt;p&gt;The test I last did on codecademy was a simple game of torpedo. If you’re done with that, go to &lt;a href=&quot;https://www.hackerrank.com/&quot;&gt;hackerrank&lt;/a&gt;. Keep doing exercises on here until you can’t feel your hands.&lt;/p&gt;
+
+&lt;p&gt;You won’t learn too much about OOP and big programming trends, but you can get to the level where you’ll easily understand more complex programming problems.&lt;/p&gt;
+
+&lt;h1 id=&quot;computer-networks&quot;&gt;Computer networks&lt;/h1&gt;
+
+&lt;p&gt;This one’s a pretty big one too. Let’s be honest here, I could direct you to CCNA and other such sites and certificates but there’s actually a silver bullet here. Just go and read &lt;a href=&quot;https://people.cs.clemson.edu/~jmarty/courses/kurose/KuroseCh1-2.pdf&quot;&gt;The Top Down Approach to Networking&lt;/a&gt;. This book is the bible of networking (No joke). I’m gonna come up with a way to let you practice networking in an interactive manner (Like you’ll do with programming) but that will take time. Sit tight and wait for other blog posts … For now, the networking bible will suffice. (Maybe start reading about &lt;a href=&quot;http://mininet.org/&quot;&gt;mininet&lt;/a&gt;). Get this knowledge inside your head.&lt;/p&gt;
+
+&lt;h1 id=&quot;digital-technology&quot;&gt;Digital technology&lt;/h1&gt;
+
+&lt;p&gt;I know bit wise operations, registers and very low level and physical stuff sounds scary but trust me, it isn’t. I found two books that seemed like they’re worth checking out. One of them is actually a &lt;a href=&quot;http://www.vernon.eu/courses/David_Vernon_Introduction_to_Computer_Systems.pdf&quot;&gt;veeeeerry long ppt slideshow&lt;/a&gt;. While the other one is a legit &lt;a href=&quot;https://drive.google.com/file/d/116jvpXnLmbXVTMX6cnPMVQ57w3D6cCpr/view&quot;&gt;book&lt;/a&gt;.
+&lt;em&gt;Warning!&lt;/em&gt; I myself didn’t use these resources. I studied about these things at university but those courses are in hungarian … Keep in touch with the blog and I’ll look through these sources as much as soon as I can and maybe make an update post about whether or not these sources are TRULY worth reading. If you don’t understand everything no worries! You should understand bit wise operations, logic gates, boolean algebra, number representations and that’s it. Read through the rest like it’s interesting, try to understand it but you won’t necessarily need it. I don’t understand everything here myself.&lt;/p&gt;
+
+&lt;h1 id=&quot;timetable&quot;&gt;Timetable&lt;/h1&gt;
+
+&lt;p&gt;I caught myself worrying about the rate of my progress several times when I was a complete beginner. Don’t do this! I’m serious … DO NOT DO THIS! This guide will not help you become a hacker. This guide will help you become a Cybersecurity Professional … Has a different ring to it, doesn’t it?&lt;/p&gt;
+
+&lt;p&gt;You’ll understand so much more about computers It’s not even funny. You’ll be able to research vulnerabilities, write your own exploits, debug and run them to get the root shell and make mad cash while doing so. But this process takes TIME. I got to a level where I could start working as an ethical hacker in more than 3 years. Be prepared to STRUGGLE a lot. So here’s a certain time table, this is by no means the plan you HAVE to follow, but this should let you make ample progress.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Time learning about a topic&lt;/th&gt;
+      &lt;th&gt;The topic&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1 month&lt;/td&gt;
+      &lt;td&gt;Getting into python on codecademy + Using linux&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3 months&lt;/td&gt;
+      &lt;td&gt;Solving challenges on Hackerrank + Using linux&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3 months&lt;/td&gt;
+      &lt;td&gt;Computer networks + Using linux&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3 months&lt;/td&gt;
+      &lt;td&gt;Digital technology&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;If you complete this and can solve the tasks I’ll be uploading in later blog posts. You’ll have to research C/C++, OOP Programming and Operating systems next. But please &lt;em&gt;DO THE ABOVE MENTIONED TASKS BEFORE THAT&lt;/em&gt;.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
